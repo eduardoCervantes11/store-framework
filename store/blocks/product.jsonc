@@ -79,7 +79,10 @@
       "props": {
         "showVariationsLabels": "true",
         "showVariationsErrorMessage": "true",
-        "showValueForVariation": "all"
+        "showValueForVariation": "all",
+        "sliderDisplayThreshold": "",
+        "displayMode": "logo",
+        "initialSelection": "complete"
       }
     }
   }
