@@ -79,9 +79,7 @@
       "props": {
         "showVariationsLabels": "true",
         "showVariationsErrorMessage": "true",
-        "showValueForVariation": "all",
-        "sliderDisplayThreshold": "",
-        "displayMode": "logo",
+        
         "initialSelection": "complete"
       }
     }
