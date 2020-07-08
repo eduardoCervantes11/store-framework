@@ -78,7 +78,8 @@
     "sku-selector": {
       "props": {
         "showVariationsLabels": "true",
-        "showVariationsErrorMessage": "true"
+        "showVariationsErrorMessage": "true",
+        "showValueForVariation": "all"
       }
     }
   }
