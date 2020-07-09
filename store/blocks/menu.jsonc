@@ -59,6 +59,12 @@
         "props": {
             "orientation": "vertical"
         }
+    },
+
+    "menu-item#major-appliances": {
+        "children": [
+            "vtex.menu@2.x:submenu#major"
+        ]
     }
 
 }
