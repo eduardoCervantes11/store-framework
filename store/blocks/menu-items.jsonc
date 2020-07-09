@@ -1,6 +1,6 @@
 {
   "menu-item#major-appliances": {
-    "blocks": ["vtex.menu@2.x:submenu#major"],
+    "blocks": [],
     "props": {
       "type": "custom",
       "highlight": true,
@@ -132,10 +132,5 @@
         "text": "Cameras"
       }
     }
-  },
-  "vtex.menu@2.x:submenu#major": {
-    "children":[
-      "flex-layout.row#major"
-    ]
-}
+  }
 }
